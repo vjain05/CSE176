@@ -1,0 +1,4 @@
+>> neural_net_driver
+Enter configuration file name (in this directory) 
+lenses-bp.cfg
+>>
