@@ -1,0 +1,4 @@
+knn_driver
+Enter configuration file name (in this directory) 
+glass-knn.cfg
+diary off;
